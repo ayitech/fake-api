@@ -45,6 +45,7 @@
       "name": "Mary",
       "gender": "Female",
       "contactPreference": "Phone",
+      "email": "Mary@email.com",
       "phoneNumber": 2345978640,
       "dateOfBirth": "1979/11/20",
       "department": "2",
@@ -56,6 +57,7 @@
       "name": "John",
       "gender": "Male",
       "contactPreference": "Phone",
+      "email": "John@email.com",
       "phoneNumber": 5432978640,
       "dateOfBirth": "1976/3/25",
       "department": "3",
@@ -72,7 +74,7 @@
       "dateOfBirth": null,
       "department": null,
       "isActive": null,
-      "photoPath": null
+      "photoPath": "assets/images/john.png"
     },
     {
       "id": 5,
@@ -84,7 +86,7 @@
       "dateOfBirth": null,
       "department": null,
       "isActive": null,
-      "photoPath": null
+      "photoPath": "assets/images/john.png"
     }
   ]
 }
